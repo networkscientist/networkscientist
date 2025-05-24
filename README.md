@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @networkscientist
+- 👋 Hi, I’m @networkscientist, a.k.a Peter Zweifel
 - 👀 I’m interested in FLOSS software.
 - 🌱 I’m applying my Python skills to (geo-)data analysis.
 - 💞️ I’m looking to collaborate on projects that contribute towards more open source code and more open government data. 
