@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @networkscientist
 - 👀 I’m interested in FLOSS software.
-- 🌱 I’m currently learning lots about Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m applying my Python skills to (geo-)data analysis.
+- 💞️ I’m looking to collaborate on projects that contribute towards more open source code and more open government data. 
+- 📫 How to reach me: Get my GitHub e-mail reply-to address.
 
 <!---
 networkscientist/networkscientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
